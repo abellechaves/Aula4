@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aula4</string>
+    <string name="web">WEB</string>
+    <string name="contatos">CONTATOS</string>
+    <string name="call">CALL</string>
+    <string name="maps1">MAPS1</string>
+    <string name="maps2">MAPS2</string>
+    <string name="maps3">MAPS3</string>
+    <string name="pic_iti">PIC ITI</string>
+    <string name="nome">Nome:</string>
+    <string name="telefone">Telefone</string>
+    <string name="contato">CONTATO</string>
+    <string name="todo">TODO</string>
+</resources>
